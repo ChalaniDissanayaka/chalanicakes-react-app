@@ -50,8 +50,8 @@
     },
     { "id": 7,
       "animation": "card",
-      "title": "Micket Mouse cake",
       "type": "Birthday-cake",
+      "title": "Micket Mouse cake",
       "description": "This birthday cake is a fun and vibrant dessert designed to celebrate birthdays, especially for young fans of the iconic Disney character.",
       "price": 300
     },
@@ -81,6 +81,34 @@
       "title": "Cheese cake",
       "description": "Cheesecake contains cream cheese, sour cream, melted semi-sweet chips, and a pre-made graham cracker crust with strawberries.",
       "price": 80.99
-    }
-  ]
+    },
+    { "id": 12,
+      "animation": "card",
+      "type": "Birthday-cake",
+      "title": "Micket Mouse cake",
+      "description": "This birthday cake is a fun and vibrant dessert designed to celebrate birthdays, especially for young fans of the iconic Disney character.",
+      "price": 300
+    },
+    { "id": 13,
+    "animation": "card",
+    "type": "Birthday-cake",
+    "title": "Micket Mouse cake",
+    "description": "This birthday cake is a fun and vibrant dessert designed to celebrate birthdays, especially for young fans of the iconic Disney character.",
+    "price": 300
+  },
+  { "id": 14,
+  "animation": "card",
+  "type": "Birthday-cake",
+  "title": "Micket Mouse cake",
+  "description": "This birthday cake is a fun and vibrant dessert designed to celebrate birthdays, especially for young fans of the iconic Disney character.",
+  "price": 300
+  },
+  { "id": 15,
+  "animation": "card",
+  "type": "Birthday-cake",
+  "title": "Micket Mouse cake",
+  "description": "This birthday cake is a fun and vibrant dessert designed to celebrate birthdays, especially for young fans of the iconic Disney character.",
+  "price": 300
+  }
+]
   
