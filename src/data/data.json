@@ -1,36 +1,42 @@
 [
     { "id": 0,
       "animation": "card",
+      "type": "Sponge-cake",
       "title": "Sponge cake",
       "description": "Italian sponge cake is a light and airy treat crafted from just three ingredients: room temperature eggs, granulated sugar, and low-protein flour for a perfect texture.",
       "price": 25.99
     },
     { "id": 1,
       "animation": "card",
+      "type": "Chocolate-cake",
       "title": "Chocolate cake",
       "description": "The recipe combines dark chocolate, almond meal, eggs, and butter together for a dense, chocolatey slice that pairs well with mascarpone, cream.",
       "price": 4.99
     },
     { "id": 2,
       "animation": "card",
+      "type": "Birthday-cake",
       "title": "Opera cake",
       "description": "Opera cake is a traditional French dessert with three layers: almond sponge, espresso buttercream, and chocolate ganache.",
       "price": 5.99
     },
     { "id": 3,
       "animation": "card",
+      "type": "Sponge-cake",
       "title": "Fruit cream cake",
       "description": "bakery-style cake recipe utilizes a soft sponge layer, custard filling, and whipped topping stabilized with gelatin for a soft dessert experience.",
       "price": 10.99
     },
     { "id": 4,
       "animation": "card",
+      "type": "BlackForest-cake",
       "title": "Black Forest cake",
       "description": "Black Forest cake is made by soaking the chocolate sponge in sugar syrup flavored with cherry brandy and topped with whipped cream.",
       "price": 13.99
     },
     { "id": 5,
       "animation": "card",
+      "type": "Apple-cake",
       "title": "Apple cake",
       "description": "This simple cinnamon sugar apple cake is light and fluffy, loaded with fresh apples, and topped with a crunchy cinnamon sugar layer.",
       "price": 6.99
@@ -38,12 +44,14 @@
      { "id": 6,
       "animation": "card",
       "title": "Cupcakes",
+      "type": "Birthday-cake",
       "description": "Cupcakes in general come in almost every flavor as traditional cakes, so you can customize the flavours batch to your liking.",
       "price": 16.99
     },
     { "id": 7,
       "animation": "card",
       "title": "Micket Mouse cake",
+      "type": "Birthday-cake",
       "description": "This birthday cake is a fun and vibrant dessert designed to celebrate birthdays, especially for young fans of the iconic Disney character.",
       "price": 300
     },
@@ -55,19 +63,22 @@
     },
     { "id": 9,
       "animation": "card",
+      "type": "Sponge-cake",
       "title": "Rainbow cake",
       "description": "Rainbow cake is as magical as it sounds. It has layers, and each one is a different color of the rainbow with different flavours",
       "price": 34.99
     },
     { "id": 10,
       "animation": "card",
+      "type": "Sponge-cake",
       "title": "Red velvet cake",
       "description": "This cake marries the richness of cocoa with a slight tang from buttermilk and vinegar, creating a taste that is as complex as its appearance.",
       "price": 5.99
     },
     { "id": 11,
       "animation": "card",
-      "title": "Cheesecake",
+      "type": "Cheese-cake",
+      "title": "Cheese cake",
       "description": "Cheesecake contains cream cheese, sour cream, melted semi-sweet chips, and a pre-made graham cracker crust with strawberries.",
       "price": 80.99
     }
