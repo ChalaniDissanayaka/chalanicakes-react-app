@@ -44,7 +44,7 @@
      { "id": 6,
       "animation": "card",
       "title": "Cupcakes",
-      "type": "Birthday-cake",
+      "type": "Cup-cake",
       "description": "Cupcakes in general come in almost every flavor as traditional cakes, so you can customize the flavours batch to your liking.",
       "price": 16.99
     },
@@ -85,28 +85,28 @@
     { "id": 12,
       "animation": "card",
       "type": "Birthday-cake",
-      "title": "Micket Mouse cake",
+      "title": "Blue-Theme cake",
       "description": "This birthday cake is a fun and vibrant dessert designed to celebrate birthdays, especially for young fans of the iconic Disney character.",
       "price": 300
     },
     { "id": 13,
     "animation": "card",
     "type": "Birthday-cake",
-    "title": "Micket Mouse cake",
+    "title": "Chocolate-Gatto cake",
     "description": "This birthday cake is a fun and vibrant dessert designed to celebrate birthdays, especially for young fans of the iconic Disney character.",
     "price": 300
   },
   { "id": 14,
   "animation": "card",
   "type": "Birthday-cake",
-  "title": "Micket Mouse cake",
+  "title": "Butterfly-Magic cake",
   "description": "This birthday cake is a fun and vibrant dessert designed to celebrate birthdays, especially for young fans of the iconic Disney character.",
   "price": 300
   },
   { "id": 15,
   "animation": "card",
   "type": "Birthday-cake",
-  "title": "Micket Mouse cake",
+  "title": "Dainty-Flowers cake",
   "description": "This birthday cake is a fun and vibrant dessert designed to celebrate birthdays, especially for young fans of the iconic Disney character.",
   "price": 300
   }
